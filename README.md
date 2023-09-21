@@ -1,4 +1,4 @@
-# FCALC
+Lazy FCA
  A library to perform lazy classification with FCA
 
 # OSDA 2023 Lazy FCA
